@@ -4,7 +4,7 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "start": "node --stack-trace-limit=30 server.test.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
